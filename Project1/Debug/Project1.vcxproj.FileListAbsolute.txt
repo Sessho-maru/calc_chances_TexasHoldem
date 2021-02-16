@@ -2,3 +2,7 @@ E:\_Repository\C\texas holdem\Project1\Project1\Project1\Debug\Project1.vcxprojA
 E:\_Repository\C\texas holdem\Project1\Project1\Project1\Debug\Project1.MyForm.resources
 E:\_Repository\C\texas holdem\Project1\Project1\Project1\Debug\Project1.ranking_board.resources
 E:\_Repository\C\texas holdem\Project1\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+E:\_Repository\C\TexasHoldem\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+E:\_Repository\C\TexasHoldem\Project1\Debug\Project1.MyForm.resources
+E:\_Repository\C\TexasHoldem\Project1\Debug\Project1.ranking_board.resources
+E:\_Repository\C\TexasHoldem\Project1\Debug\Project1.vcxproj.GenerateResource.cache
