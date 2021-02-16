@@ -1,0 +1,3 @@
+pictureBox16  107, 308      ÁÂÇ¥ÀÌµ¿ : +13, +10
+pictureBox109 120, 318
+pictureBox108 133, 328
